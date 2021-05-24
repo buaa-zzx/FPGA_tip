@@ -5,7 +5,7 @@ ZYNQ驱动Nvme固态硬盘
 Vivado 2017.4
 
 # 文件说明
-vivdao：vivado工程   
+vivdao：vivado工程文件   
  
 
 # 相关教程
