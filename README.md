@@ -5,7 +5,7 @@
 Vivado 2018.3 || Vivado 2017.4
 
 # 文件说明
-zynq_nvme：ZYNQ平台驱动Nvme固态硬盘   
+zynq_nvme：基于ZYNQ平台驱动Nvme固态硬盘   
  
 
 # 相关教程
